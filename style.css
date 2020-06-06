@@ -1,0 +1,231 @@
+.d-block{
+   height:400px; !important
+
+
+
+
+
+}
+.container{
+
+   background-color:DodgerBlue; !important
+   
+
+
+}
+
+.row{
+
+    width: 100%; !important
+
+}
+
+.fa-truck,.fa-phone,.fa-percent{
+     Font-size: 50px  !important; 
+     margin-right:15px;
+}
+
+
+.card1,.card2,.card3{
+    display: flex;
+    width: 300px;
+    height:100px;
+    background-color:#fff;
+    box-shadow: 2px 4px 5px grey;
+     justify-content:center;
+    align-items:center;
+    margin-top:10px;
+
+
+}
+
+.maincard{
+     margin-top:30px;
+     display: flex;
+     flex-direction:row;
+     justify-content:space-around;
+     flex-wrap:wrap;
+
+}
+
+@media screen and (max-width: 600px) {
+
+.card1,.card2,.card3{
+       width:100%;
+
+}
+}
+
+.ourProducts{
+
+margin-top: 50px;
+
+
+
+
+}
+
+
+
+
+
+.container{
+
+background-color:white !important;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.card-img-top{
+
+
+width:248px    !important;
+height:300px   !important;
+
+
+}
+
+
+.card{
+width:250px !important;
+
+height:auto !important;
+margin-top:7px;
+margin-bottom:20px;
+
+
+}
+
+.heading{
+text-align:center;
+font-weight:bold;
+
+
+}
+
+.heading > h1{
+
+text-shadow:2px 2px 4px black
+}
+
+
+
+.footer > h5{
+
+text-align:center;
+
+
+
+}
+
+.footer{
+
+margin-top: 20px !important;
+
+}
+.fa-phone{
+
+
+
+font-size: 20px  !important;
+
+
+
+}
+
+
+.alert-success{
+background-color:white !important;
+
+
+}
+
+
+.aboutUs{
+
+margin-top:30px;
+margin-bottom:40px;
+margin-left:50px;
+margin-right:50px;
+}
+
+.aboutUs > h1{
+
+text-align:center;
+
+}
+
+
+.alert-heading{
+
+text-align:center  !important;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.two{
+
+margin-top:50px !important;
+
+
+}
+
+
+.two > h1{
+
+text-align:center;
+
+
+}
+
+
+
+
+
+
+.btn-primary{
+
+text-align:center !important;
+
+
+}
